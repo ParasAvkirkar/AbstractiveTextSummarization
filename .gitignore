@@ -3,3 +3,6 @@ glove.*
 *.zip
 *.json
 Model_Backup/*
+.ipynb_checkpoints/
+Model_Backup_AmazonReviews/
+Model2/dataset/
