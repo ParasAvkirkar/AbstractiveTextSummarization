@@ -1,5 +1,6 @@
 glove.*
 *.csv
+*.pickle
 *.zip
 *.json
 Model_Backup/*
